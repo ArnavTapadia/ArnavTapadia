@@ -12,8 +12,7 @@ I’m currently focused on improving **AI alignment** by creating models that pr
    - [Notebook 1: Comparing LSTM implementations to naive models](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/feature/LSTM_naive_test/time_series_predictor/Notebooks/Naive_Model_Comparison.ipynb)
    - [Notebook 2: Understanding LSTM Limitations on random sum of sines prediction](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/feature/LSTM_naive_test/time_series_predictor/Notebooks/Random_Sine_Prediction.ipynb)
    - [Notebook 3: Recursive Forecasting Implementation](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/branch-name/path/to/notebook3.ipynb) *(Replace with actual branch name and path)*
-
-   [Link to Full Repository](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor) *(Replace with actual branch if needed)*
+   - [Link to Full Repository](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor) *(Replace with actual branch if needed)*
 
 3. **Half-Car Model for Cornell Baja Racing**  
    Simulation models built in Simulink to analyze vehicle dynamics and performance, specifically focusing on suspension system behavior and lap-time sensitivity.  
@@ -23,9 +22,9 @@ I’m currently focused on improving **AI alignment** by creating models that pr
 4. **App for Managing Purchases and Expenditures**  
    An app developed to manage household purchases and expenditures using a database to record transactions. It allows users to take a photo of a receipt, which is processed through **OCR technology** to update the database automatically.  
    Coded in **Xcode using Swift** with a graphical user interface using Swift UI and integration with Firebase and REST APIs.
-   - [App Video] (https://github.com/ArnavTapadia/Expense-Tracker-App/blob/main/Documentation/Criterion_D.mp4)
-   - [Additional Documentation] (https://github.com/ArnavTapadia/Expense-Tracker-App/tree/main/Documentation)
-   [Link to Repository](#) *(Replace with actual link)*
+   - [App Video](https://github.com/ArnavTapadia/Expense-Tracker-App/blob/main/Documentation/Criterion_D.mp4)
+   - [Additional Documentation](https://github.com/ArnavTapadia/Expense-Tracker-App/tree/main/Documentation)
+   - [Link to Repository](#) *(Replace with actual link)*
 
 6. **F1 Car Speed Prediction Model**  
    A personal project that summarizes and compares different ML models I've learned to predict the speed of an F1 car based on track geometry.  
