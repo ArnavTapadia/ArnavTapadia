@@ -9,9 +9,9 @@ I’m currently focused on improving **AI alignment** by creating models that pr
    Developing models to predict human emotions based on interactions with LLMs. This project also explores time-series forecasting methods to model emotion patterns over time.  
    Techniques used include **data imputation**, **deep learning**, and **recursive time-series forecasting**.  
 
-   - [Notebook 1: Comparing LSTM implementations to naive models](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/feature/LSTM_naive_test/time_series_predictor/Notebooks/Naive_Model_Comparison.ipynb)
-   - [Notebook 2: Understanding LSTM Limitations on random sum of sines prediction](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/feature/LSTM_naive_test/time_series_predictor/Notebooks/Random_Sine_Prediction.ipynb)
-   - [Notebook 3: Recursive Forecasting Implementation](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/branch-name/path/to/notebook3.ipynb) *(Replace with actual branch name and path)*
+   - [Notebook 1: Comparing LSTM implementations to naive models on univariate to univariate prediction](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/feature/LSTM_naive_test/time_series_predictor/Notebooks/Naive_Model_Comparison.ipynb)
+   - [Notebook 2: Understanding LSTM Limitations on predicting a random sum of sines](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/feature/LSTM_naive_test/time_series_predictor/Notebooks/Random_Sine_Prediction.ipynb)
+   - [*Notebook 3: Emotion to Emotion Prediction*](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/blob/feature/LSTM_naive_test/time_series_predictor/Notebooks/Multivariate_Emotion_Forecasting.ipynb) 
    - [Link to Full Repository](https://github.com/ArnavTapadia/emili_TimeSeriesPredictor/tree/feature/LSTM_naive_test) *(Current Branch)*
 
 3. **Half-Car Model for Cornell Baja Racing**  
