@@ -1,5 +1,5 @@
 # Hi, I’m Arnav Tapadia 👋
-I'm a senior at Cornell University majoring in **Applied and Engineering Physics** with minors in **Data Science** and **Business**. I’m passionate about applying machine learning to solve **real-world problems**. My current work is in **AI alignment** and **time-series forecasting** and previously I worked as a vehicle dynamics performance and simulation capabilities engineer at Mercedes Formula One Team for a year! My background in physics gives me a unique perspective in modeling complex systems, while my data science expertise helps me develop robust ML solutions. I am excited to apply these skills to the real world to solve difficult and complex problems.
+Majored in **Applied and Engineering Physics** with minor in **Data Science**. I’m passionate about applying machine learning to solve **real-world problems**. Previous work is in **AI alignment** and **time-series forecasting** and before that I worked as a vehicle dynamics performance and simulation capabilities engineer at Mercedes Formula One Team for a year! My background in physics gives me a unique perspective in modeling complex systems, while my data science expertise helps me develop robust ML solutions. I am excited to apply these skills to the real world to solve difficult and complex problems.
 
 ## 🔭 What I'm Working On
 I’m currently focused on improving **AI alignment** by creating models that predict human emotions using emotion data and chat logs with large language models (LLMs). This research aims to make AI systems more empathetic and aligned with human intentions.
@@ -38,7 +38,6 @@ I’m currently focused on improving **AI alignment** by creating models that pr
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Arnav Tapadia](https://www.linkedin.com/in/arnav-tapadia-a14077142/)
-- **Email:** [at565@cornell.edu](mailto:at565@cornell.edu)
 
 ## ⚡ Fun Facts
 I’m an avid **badminton player**, love playing the **electric guitar**, and I love **extreme sports**
